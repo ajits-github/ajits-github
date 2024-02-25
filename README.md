@@ -1,4 +1,5 @@
-![GitHub Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+<img src="https://github.com/ajits-github/ajits-github/blob/10df30c4a023d6f6d05ef691bb801b0825f1c858/Geopoints_png_jpeg.PNG" alt="GeoData Analysis" title="Predicition of unhealthy trees" width="800"/>
 
 # Hi 👋, I'm Ajit!
 
