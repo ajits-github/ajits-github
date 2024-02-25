@@ -9,7 +9,7 @@
 - 👨‍💼 **Senior Data Scientist** at **Elevait GmbH, Dresden** - leading ML-driven document analysis.
 - 🌱 I’m currently learning Scala and polishing my C++ skills for machine learning.
 - 🏢 Professional journey includes impactful roles at **PwC, Cognizant, Atotech Berlin**, and **TeamViewer R&D**.
-- 📈 Developed **patented chemistry image model** and innovative dataset background removal techniques.
+- 📈 Developed **patented chemistry image model**, prediction of locations of unhealthy trees and innovative dataset background removal techniques.
 - ⚽ Enjoys **astronomy** and **football** - a blend of stargazing and sportsmanship.
 - 🎯 Aspiring to lead the charge in **AI innovation**, keen on learning, sharing, and collaborating on Kaggle.
 - 📫 How to reach me: ajit110920@gmail.com
