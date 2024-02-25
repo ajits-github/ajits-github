@@ -20,7 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajit_ak)
 
 
-#### Languages And Tools:
+#### Tech Stack:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajits-github&layout=compact)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -32,11 +32,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=green)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=nltk&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-1F425F?style=flat-square&logo=gensim&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-1F425F?style=flat-square&logo=gdal&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat-square&logo=gitlab&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajits-github)
 
