@@ -15,8 +15,9 @@
 - 📫 How to reach me: ajit110920@gmail.com
 
 #### Connect with me:
-[![Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_TO_YOUR_PROFILE)](https://www.linkedin.com/in/ajit-kumar-ak/)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fajit_kumar_ak)](https://twitter.com/ajit_kumar_ak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-kumar-ak)
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ajit_kumar_ak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajit_ak)
 
 
 #### Languages And Tools:
