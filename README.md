@@ -7,7 +7,7 @@
 
 - 🎓 **MSc. Informatics** from **RPTU Kaiserslautern** - specialized in **Machine Learning**. Thesis on 3D data at **DFKI**.
 - 👨‍💼 **Senior Data Scientist** at **Elevait GmbH, Dresden** - leading ML-driven document analysis.
-- 🌱 I’m currently learning Scala and polishing my C++ skills for machine learning.
+- 🌱 I’m currently learning **Scala** and polishing my **C++** skills for machine learning.
 - 🏢 Professional journey includes impactful roles at **PwC, Cognizant, Atotech Berlin**, and **TeamViewer R&D**.
 - 📈 Developed **patented chemistry image model**, prediction of locations of unhealthy trees and innovative dataset background removal techniques.
 - ⚽ Enjoys **astronomy** and **football** - a blend of stargazing and sportsmanship.
