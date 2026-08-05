@@ -7,7 +7,7 @@
 
 - 🎓 **MSc. Informatics** from **RPTU Kaiserslautern** - specialized in **Machine Learning**. Thesis on 3D data at **DFKI**.
 - 👨‍💼 **Senior Data Scientist** at **Elevait GmbH, Dresden** - leading ML-driven document analysis.
-- 🏢 Professional journey includes impactful roles at **PwC, Cognizant, Atotech Berlin**, and **TeamViewer R&D**.
+- 🏢 Professional journey includes impactful roles at **PwC, Cognizant**, and **TeamViewer R&D**.
 - 📈 Developed model for prediction of locations of unhealthy trees, and innovative dataset background removal techniques.
 - ⚽ Enjoys **astronomy** and **football** - a blend of stargazing and sportsmanship.
 - 🎯 Aspiring to lead the charge in **AI innovation**, keen on learning, sharing, and collaborating on Kaggle.
