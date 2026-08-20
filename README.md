@@ -24,13 +24,13 @@
 Python · PyTorch · Hugging Face Transformers · Scikit-learn · OpenCV · MMDetection
 
 ### Generative AI
-LLMs · RAG · LangChain · Embeddings · Vector Search · pgvector · FAISS · ChromaDB · Prompt Engineering · Guardrails
+LLMs · RAG · AgenticRAG · LangChain · Embeddings · Vector Search · pgvector · Prompt Engineering · Guardrails
 
 ### Backend
 FastAPI · REST APIs · gRPC · PostgreSQL · MongoDB · Redis · Async Processing · Microservices
 
 ### MLOps / Platform
-Docker · Kubernetes · Helm · Jenkins · DVC · Pants · AWS SageMaker · OpenTelemetry · Grafana
+Docker · Kubernetes · Helm · Jenkins · DVC · Pants · MLflow · AWS SageMaker · Prometheus · OpenTelemetry · Grafana
 
 ### AI-Assisted Development
 Claude Code · Cursor
