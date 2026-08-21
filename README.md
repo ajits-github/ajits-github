@@ -35,6 +35,6 @@ Docker · Kubernetes · Helm · Jenkins · DVC · Pants · MLflow · AWS SageMak
 ### AI-Assisted Development
 Claude Code · Cursor
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajits-github)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ajits-github)](https://git.io/streak-stats)
 
 ---
