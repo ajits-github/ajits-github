@@ -110,9 +110,20 @@
 
 <br>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <a href="https://github.com/ajits-github">
+    <img
+      src="./profile/streak.svg"
+      alt="Ajit's GitHub streak"
+    />
+  </a>
+</p>
+
 <br>
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <a href="https://github.com/ajits-github">
