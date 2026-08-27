@@ -123,14 +123,12 @@
 
 <br>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/ajits-github">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ajits-github&theme=github-compact&hide_border=true&area=true"
-      alt="Ajit's GitHub activity graph"
-      width="95%"
-    />
-  </a>
-</p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajits-github&theme=github-compact&hide_border=true&area=true"
+    alt="Ajit's GitHub activity graph"
+    width="95%"
+  />
+</p> -->
